@@ -41,6 +41,6 @@ Multimedia project combining storytelling and digital media.
 ---
 
 ## Contact
-- LinkedIn: [link]
-- Email: [email]
+- LinkedIn: [www.linkedin.com/in/alice-buccoleri-31270a404]
+- Email: [alicebuck04@gmail.com]
 
