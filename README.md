@@ -29,7 +29,7 @@ Web application for exploring and managing brewery-related data.
 **Technologies:** Blender  
 Collection of 3D modeling projects focused on assets and scene creation.
 
-👉 [View Project](link)
+👉 [View Project](https://github.com/alibucco/blender-3d-modeling.git)
 
 ---
 
