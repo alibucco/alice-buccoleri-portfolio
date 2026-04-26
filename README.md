@@ -9,7 +9,7 @@ I am interested in developing visual computing systems, combining 3D graphics, i
 
 ## Projects
 
-### 🎮 OpenGL Graphics Project
+### OpenGL Graphics Project
 **Technologies:** C++, OpenGL, Blender  
 Real-time rendering project combining 3D modeling and graphics programming.
 
@@ -17,7 +17,7 @@ Real-time rendering project combining 3D modeling and graphics programming.
 
 ---
 
-### 💻 Brewery Web Application
+### Brewery Web Application
 **Technologies:** React, TypeScript  
 Web application for exploring and managing brewery-related data.
 
@@ -25,7 +25,7 @@ Web application for exploring and managing brewery-related data.
 
 ---
 
-### 🎨 3D Modeling (Blender)
+### 3D Modeling (Blender)
 **Technologies:** Blender  
 Collection of 3D modeling projects focused on assets and scene creation.
 
@@ -33,10 +33,10 @@ Collection of 3D modeling projects focused on assets and scene creation.
 
 ---
 
-### 🎭 Transmedia Project
+### Transmedia Project
 Multimedia project combining storytelling and digital media.
 
-👉 [View Project](link)
+👉 [View Project](https://github.com/alibucco/transmedia-projects.git)
 
 ---
 
