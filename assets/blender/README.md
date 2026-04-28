@@ -34,8 +34,10 @@ The environment merges two social functions within a single coherent space, emph
 - Blender
 - Adobe Substance 3D Painter
 
+---
+---
 
-## Stylized Environment – Maleficent’s Room (Reinterpretation)
+# Stylized Environment – Maleficent’s Room (Reinterpretation)
 
 [Maleficent Room](assets/Final1.png)
 
